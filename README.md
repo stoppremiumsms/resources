@@ -14,8 +14,8 @@ But it was only $6.99 and Telstra refunded you - why do you care? Here is [why](
 _Stories and complaints about an incident that lead to the creation of this campaign_
 
 * Jon Seymour's [story](https://drive.google.com/a/premiumsms.org/file/d/0B45YMnReupuEckpHaWhadzV1TkE/view) of an unauthorised attempt to bill his mobile phone account as told to the [TIO](http://tio.com.au).
-* The [complaint to Telstra](https://drive.google.com/a/premiumsms.org/file/d/1HPvGuu78Wf36raDzrttxNMJm4c9ideDjO0sVC7AuUEJs3MSkxeBndI-VuLXHBvYbReqIbt-BPp02T4gd/view) as it became apparent that the standard complaints process was not going reach a satisfactory outcome. 
-* The associated [complaint to the ACCC](https://blog.stoppremiumsms.org/2016/04/14/accc-complaint/) asking the ACCC to investigate Telstra's failures to look after the interests of its customers.
+* The [complaint to Telstra](https://drive.google.com/a/premiumsms.org/file/d/1HPvGuu78Wf36raDzrttxNMJm4c9ideDjO0sVC7AuUEJs3MSkxeBndI-VuLXHBvYbReqIbt-BPp02T4gd/view) as it became apparent that the standard complaints process was not going reach a satisfactory outcome.
+* The associated [complaint to the ACCC](https://blog.stoppremiumsms.org/2016/04/14/accc-complaint/) asking the ACCC to investigate Telstra's failures to look after the interests of its customers. [[submitted complaint]](https://github.com/stoppremiumsms/resources/blob/master/pdf/accc-complaint-66958.pdf)
 * There is also the more rhetorical version of these complaints rended in the form of a [rant](https://blog.stoppremiumsms.org/about/). Admittedly the initial TIO submission is technically also described as a rant.
 
 
@@ -38,8 +38,8 @@ _Various rants about the broken Australian Premium SMS system._
 
 ##Questions
 
-_This section will contain non-rhetorical questions asked of telecommunications companies about genuine issues of concern with their policies together 
-with their responses as they are obtained. As the responses change we will update with the current response as it is provided. Previous 
+_This section will contain non-rhetorical questions asked of telecommunications companies about genuine issues of concern with their policies together
+with their responses as they are obtained. As the responses change we will update with the current response as it is provided. Previous
 responses will be archived for the purposes of transparency. Organised by question, rather than company, so that you can more easily
 rate and compare the policies of two different companies_
 
@@ -49,15 +49,15 @@ _HOWTO guides which explain how to help protect yourself from Premium SMS scams 
 
 ##Archives
 
-As the industry wakes up and scrambles to save its cash pig from the bonfire (mmmm, bacon!), incriminating documents 
-from the past are going to disappear down the memory hole. 
+As the industry wakes up and scrambles to save its cash pig from the bonfire (mmmm, bacon!), incriminating documents
+from the past are going to disappear down the memory hole.
 
-Our archives will keep copies of the documents at points in time so that you don't have to (but please fork/clone the repo anyway). Watching how 
+Our archives will keep copies of the documents at points in time so that you don't have to (but please fork/clone the repo anyway). Watching how
 the documents evolve will should be an amusing spectator sport for lovers of all little-guy-against-the-system thrillers.
 
-Copyright of the archived documents remains the property of the owners. Archive copies retained by this repository held only 
+Copyright of the archived documents remains the property of the owners. Archive copies retained by this repository held only
 for the purposes of transparency and to serve the public interest. Request to remove these copies will be denied without response
-unless and until a court injunction is granted. Any legal demands in respect of these copies will be republished in full. 
+unless and until a court injunction is granted. Any legal demands in respect of these copies will be republished in full.
 So, good luck with those.
 
 ##Social Media Sources
@@ -82,10 +82,10 @@ is similar to my own._
 
 **Q**: Hey, isn't that hypocritical aren't a lot of your contributions very polemical? Why won't you accept mine?
 
-**A**: It is true, that some of my contributions will be very polemical in nature. I don't apologise for that. A certain amount of anger is required to 
+**A**: It is true, that some of my contributions will be very polemical in nature. I don't apologise for that. A certain amount of anger is required to
 inspire outrage in others so that their anger in turn inspires outrage in others and so the virus spreads until there is a movement. Once there is a movement, there will be change. And then, we win.
 
-But what we ultimately need is a cold, hard facts. Lots of them. And we need to appeal to mums and dads of Australia who won't be that keen of in taking up pitch forks and nooses. If I started to accept too much polemical material, it might be hard for the campaign to break out of the box into one of broader appeal. 
+But what we ultimately need is a cold, hard facts. Lots of them. And we need to appeal to mums and dads of Australia who won't be that keen of in taking up pitch forks and nooses. If I started to accept too much polemical material, it might be hard for the campaign to break out of the box into one of broader appeal.
 
 The other thing is - I know what happened to me. I can never be completely sure what happened to others so can't vouch myself for the veracity of their stories. Yet, I am the one whose is liable if another writes something that gets added to this repository that ultimately turns out to be false or slanderous. And git being what it is, that story
 will be remain in the repo for ever. Under threat of legal action, I'd have to start deleting stuff and the message would become less powerful.
@@ -95,8 +95,8 @@ So, leave the polemics in this repo to me. Sure, writes your own polemics. If th
 ####Questions. Lots of Questions.####
 
 What would be really helpful is contribution of questions. Pointed ones, similar to ones in my [complaint](https://drive.google.com/a/premiumsms.org/file/d/1HPvGuu78Wf36raDzrttxNMJm4c9ideDjO0sVC7AuUEJs3MSkxeBndI-VuLXHBvYbReqIbt-BPp02T4gd/view) to Telstra. They have to be reasonable questions. They have to be questions
-that mobile service providers that have fair policies and live up to those policies can answer truthfully or will subject to themselves to silence of damaging falsehoods 
-otherwise. 
+that mobile service providers that have fair policies and live up to those policies can answer truthfully or will subject to themselves to silence of damaging falsehoods
+otherwise.
 
 We particularly want questions that differentiate mobile services providers that have, and live up to, good policies from those that don't. Let market forces, reign, I say.
 
