@@ -95,10 +95,11 @@ So, leave the polemics in this repo to me. Sure, writes your own polemics. If th
 ####Questions. Lots of Questions.####
 
 What would be really helpful is contribution of questions. Pointed ones, similar to ones in my [complaint](https://drive.google.com/a/premiumsms.org/file/d/1HPvGuu78Wf36raDzrttxNMJm4c9ideDjO0sVC7AuUEJs3MSkxeBndI-VuLXHBvYbReqIbt-BPp02T4gd/view) to Telstra. They have to be reasonable questions. They have to be questions
-that mobile service providers that have fair policies and live up to those policies can answer truthfully or will subject to themselves to silence of damaging falsehoods
-otherwise.
+that mobile service providers that have fair policies and live up to those policies can answer truthfully or will subject to themselves to damaging silence or falsehoods otherwise.
 
-We particularly want questions that differentiate mobile services providers that have, and live up to, good policies from those that don't. Let market forces, reign, I say.
+We particularly want questions that differentiate mobile services providers that have, and live up to, good policies from those that don't.
+
+Let market forces, reign, I say.
 
 ###How To Submit Contributions
 
