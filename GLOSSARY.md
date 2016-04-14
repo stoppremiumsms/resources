@@ -82,3 +82,14 @@ The very first thing you should request when you ring the customer service depar
 
 While you are there you might to ask for a refund for all those $20 calls you made to Premium SMS Australian Edition (TM) "help" lines in respect of disputed "sign up" with informed consent claims made by Australian telcos in the form of unexpected charges for Premium SMS Australian Edition (TM) services that appeared on your bill.
 
+##Call To Action
+
+Please make a fuss people.
+
+On Twitter, on FaceBook, with your friends at the pub, with news paper letter columns, with blogs, in Whirlpool, on Slashdot and Boing Boing - you know everywhere.
+
+But most importantly with your local members of the Federal Parliament.
+
+We need this system to be dismantled. If there are people out there who think we need it rebuilt, then fine, rebuild. 
+
+But please use new timber and, this time, a bit of common sense.
