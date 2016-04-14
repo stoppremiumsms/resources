@@ -80,5 +80,5 @@ If company R is really lucky customer S will be pretty proud with himself for ge
 
 The very first thing you should request when you ring the customer service department of your End Carriage Supplier (e.g. your telco) after finishing the reading and [retweeting](https://twitter.com/stoppremiumsms/status/720713050790072320) this document.
 
-While you are there you might to ask for a refund for all those $20 calls you made to Premium SMS Australian Edition (TM) "help" lines in respect of disputed "sign up" with informed consent claims made by Australian telcos in the form of unexpected charges for Premium SMS Australian Edition (TM) that appeared on your bill.
+While you are there you might to ask for a refund for all those $20 calls you made to Premium SMS Australian Edition (TM) "help" lines in respect of disputed "sign up" with informed consent claims made by Australian telcos in the form of unexpected charges for Premium SMS Australian Edition (TM) services that appeared on your bill.
 
