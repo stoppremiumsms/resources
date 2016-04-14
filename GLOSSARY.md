@@ -68,10 +68,6 @@ Online Opt-In - so new tech. It's a must have feature!
 
 Shortly to be legislated out of existence by a snoring Australian Parliament when it eventually wakes up.
 
-##Premium SMS Barring
-
-The very first thing you should request when you ring the customer service department of your End Carriage Supplier (e.g. your telco) after finishing the reading (and retweeting, sharing etc) of this document.
-
 ##The Real 'Scam'
 
 (Lawyers have asked me to put 'Scam' in scare-quotes because it isn't a real scam committed with the malicious intent of company R. It looks like scam, but really - it isn't. It's just good old corporate incompetence which just happens to have remarkably health effect on company R's bottom line. How extraordinarily convenient)
@@ -79,4 +75,8 @@ The very first thing you should request when you ring the customer service depar
 The $1/m mobile phone charge that customer S spends waiting in the eternally busy "help" lines of company F after being referred there (following Section 6.1.9 of "Industry Code - Mobile Premium Services" - C637:2011) by company R who would couldn't really be bothered investigating customer S's dispute with company R that resulted from company R making use of "Deemed Informed Consent" to transfer a charge C received from company F on its own account to that of customer S.
 
 If company R is really lucky customer S will be pretty proud with himself for getting back his $7 and won't notice that $20 he just spent on that phone call.
+
+##Premium SMS Barring
+
+The very first thing you should request when you ring the customer service department of your End Carriage Supplier (e.g. your telco) after finishing the reading and [retweeting](https://twitter.com/stoppremiumsms/status/720713050790072320) this document.
 
