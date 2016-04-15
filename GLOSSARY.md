@@ -10,6 +10,18 @@ Used extensively by Telstra to market and sell its own services, but used rarely
 
 Support for 3rd party Premium SMS services is scheduled for a future release (or perhaps a patch release) of Premium SMS Australian Edition (TM).
 
+##Premium SMS Australian Edition (TM)
+A peculiarly Australian strain of a previously wide-spread global scourge that is locally referred to by
+the more conveniently used brand name - Premium SMS - which has the advantage of conveying a sense of quality rather than the kind of stagnated technical backwardness implied by the full term. Mobile Service providers tend to use only the abbreviated phrase in all marketing materials used to promote the infectious agent.
+
+This strain of the infection has proved particularly problematic to eraditcate because it induces sleeping sickness in the population of Federal Parliamentarians and apathy in the remainder of the population.
+
+Readily cured by appropriate doses of Awareness which, unfortunately, are no longer available under the PBS because of recent cutbacks in such schemes under the rubrik of "efficiency".
+
+Hopes remain high that it will be eliminated following a forth-coming Emergency Act Of Parliament once the population receives its Awareness booster shots courtesy of a generously UN relief program funded primarily by Bosnia.
+
+_Did you just giggle? - [retweet](https://twitter.com/stoppremiumsms/status/720713050790072320) people, it will help!_
+
 ##Mandatory Opt-Out, Optional Opt-In
 
 A controversial change expected to pass through Australian Parliament in its next seating.
@@ -79,6 +91,9 @@ A measure of corporate fear about mistakes, past-made, in terms of an approximat
 The $1/m mobile phone charge that customer S spends waiting in the eternally busy "help" lines of company F after being referred there (following Section 6.1.9 of "Industry Code - Mobile Premium Services" - C637:2011) by company R who would couldn't really be bothered investigating customer S's dispute with company R that resulted from company R making use of "Deemed Informed Consent" to transfer a charge C received from company F on its own account to that of customer S.
 
 If company R is really lucky customer S will be pretty proud with himself for getting back his $7 and won't notice that $20 he just spent on that phone call.
+
+#Reality Distortion Field
+A hitherto unanticipated extension theory of Einstein's theory of General Relativity that explains phenomena such as the unexpected reversals the Burden Of Proof (see above) that occur when reality passes in close vicinity of "Premium SMS - Australian Edition (TM)"
 
 ##Premium SMS Barring
 
