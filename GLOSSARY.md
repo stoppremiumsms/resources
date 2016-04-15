@@ -68,6 +68,10 @@ Online Opt-In - so new tech. It's a must have feature!
 
 Shortly to be legislated out of existence by a snoring Australian Parliament when it eventually wakes up.
 
+##Rolls of Toilet Paper
+
+A measure of corporate fear about mistakes, past-made, in terms of an approximate estimate of the number of extra rolls of toilet paper that the Company R Legal department feels it needs in addition to normal requirements to properly balance the needs of customers (under Section 51 of the 'Trade Practices Act') and the needs of share holders under the ASIC rules regarding disclosures of 'material impact' and the more fundamental need for a good dividend unimpeded by the impact of an unexpected, but entirely predictable, class action law suit.
+
 ##The Real 'Scam'
 
 (Lawyers have asked me to put 'Scam' in scare-quotes because it isn't a real scam committed with the malicious intent of company R. It looks like scam, but really - it isn't. It's just good old corporate incompetence which just happens to have remarkably health effect on company R's bottom line. How extraordinarily convenient)
@@ -90,6 +94,6 @@ On Twitter, on FaceBook, with your friends at the pub, with news paper letter co
 
 But most importantly with your local members of the Federal Parliament.
 
-We need this system to be dismantled. If there are people out there who think we need it rebuilt, then fine, rebuild. 
+We need this system to be dismantled. If there are people out there who think we need it rebuilt, then fine, rebuild.
 
 But please use new timber and, this time, a bit of common sense.
