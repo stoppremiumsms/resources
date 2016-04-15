@@ -1,128 +1,135 @@
 #MANIFESTO
 
-#Embargo
-Full contents of this manifesto are subject to media embargo until 16:30, April 15 2016.
+This movement is less than 1 week old and at last count had 9 supporters, 2 of which are me.
 
-Check back here then to find them.
+Sorry about that, I really didn't mean to "sign up" twice, but I can't tell you exactly which event was the
+one that was the result of "informed consent" and which event was the result of "accidentally, but deliberately", clicking the wrong button at the wrong time. The reason I can't tell you is that I failed to keep sufficient documentation or logs deemed "sign up" events either on my servers or those 3rd parties I am contracted with. As your CSRs have asked, I will try to be more careful next time. I promise. Really.
 
-#Entertainment
-While you are waiting enjoy the view.
+Anyway, suffice to say, we haven't yet had chance to fully articulate what actions we want taken.
 
-And the music - thanks, Zeke and the boys.
+However are some rough thoughts for your consideration:
 
-#More Information
-All media enquiries prior to that time should be directed to
-my press officer, Andy Penn.
+ * JUST FIX THIS SHIT ALREADY. OK?
 
-#Back Story
-Andy is a little surprised by his new role as my press officer, primarily
-because he had no idea that he'd signed up for it. But that's the thing -
-the Internet is a dangerous place these days - scams everwhere, like you
-wouldn't believe! I know you know that, but I didn't know that and so too, it seems,
-neither does Andy.
+Of back to demands of more a refined nature:
 
-But the most important thing is that neither do our customers -
-we make more revenue if they are less informed about such things.
-And we make absolutely heaps when they are completely clueless about the notion of
-informed consent and how important it is do demand that your provider has some
-actual proof, like records and shit, that it was actually given when you
-enter into a dispute with your provider about such matters.
 
-For example, I had no idea either until 18:44 on April 8 when
-I realised I had been scammed by the entire Premium SMS - Australian
-Edition (TM) service industry a full 24 hours previously when an unsolicted SMS
-arrived on my phone at almost the exact same moment as $6.99 charge was
-posted to my phone account. The Internet is so fast these days. Isn't it awesome?
+* An immediate acknowledgement, in the form of a press release distributed in the normal way by the CEOs of Telstra, Optus and Vodafone that there may be some merit to at least some of my concerns that I have raised since 18:44 April 7, 2016.
 
-So convenient too. Did you know you can sign up to a Premium SMS Service in a matter of
-seconds without troublesome things like actual terms and conditions, double opt-in
-authentication, authentication of any kind, actual informed consent, logs or business ethics.
-It's amazing.
+ Use of gently self-deprecating humour in those releases would be greatly appreciated by the punters - it may help salve the wounds - but I am sure your legal departments might have different opinions on these matters.
 
-In fact, today Premium SMS - Australian Edition (TM) brings to Australian shores
-features long banned elsewhere. Clueless consent. Or as the industry likes
-to called "Deemed Informed Consent". Not quite as robust as "Actual Informed Constent"
-but so much faster and so much less paper work and book keeping. Not to mention
-the amount disk space for log files. Remember though that if you intend to deploy
-Clueless Consent into your network your legal department is eventually going
-to need extra supplies of toilet paper (by 16:30, if they haven't exhausted their supplies already),
-so be prepared.
+ That said it possible they are probably pre-occupied in unanticipated "Oh, Shit!" meetings right now, so see if you can slip at least a _few_ jokes through without their authorisation, ok?
 
-But seriously Andy is a busy man these days, what with network outages and the whole gay marriage thing, both at the same time. What a workload. Yeah, and CEO of Telstra. That must be a lot of work too - but at least job comes with all kinds of short cuts you take in order to get things done quickly.
+ Remember, most amusing CEO wins!
 
-Anyway back to a record of a conversation I had with Andy earlier in the day. To protect
-Andy's privacy I won't leak the full audio, just provide you with a transcript. To set
-some context and his complaint that he sincerely didn't provide any informed
-consent to become my press office.
+Ok enough of the humour for now. Some serious points:
 
-Andy, what do you mean you didn't read in the print in my Linked In profile? If you had been
-paying attention you would have noted I'd carefully encoded these terms and condition
-my Linked In profile which clearly stated in no less than 6pt font that any viewing of this profile would be deemed into mean that you had provided inform consent to become my press office. Yeah, right there,
-under the convenient invisible button.
+* For Telstra to state that it will provide to the ACCC open and transparent access to all its contracts, documentation and IT systems as it works to investigates ACCC complaint 66958 that I raised,
+and will not try to use claims of commercial privilege to prevent any discoveries requested by the ACCC.
 
-Andy, you really, should not have clicked on my LinkedIn profile if you didn't want to become
-press officer in my service. I know you don't know me from Adam, Andy. (Adam is my offsider, by the way, brother of Eve) and you know even less about my organisation. That's ok Andy, I intend to teach you. You can find a primer in the complaint I sent through on Tuesday night a slight variant of which I also sent to the ACCC a day later. Its a over 5 pages long. I know a long read, but I had to get a lot off my chest.
+* An agreement with the Telstra CEO to work co-operatively with the Optus and Vodafone CEOs together to improve the quality and integrity of the Australian Premium SMS system over the longer term, should the Australian Parliament decide, after a thorough review by Parliamentary inquiry, that it provides sufficient
+benefits to Australian society to outweigh its risks.
 
-Anyway, I'll forgive you this time, but next time be more careful. These mistakes can be expensive you
-know and they can take minutes, even as long as 20 minutes, on the phone to the
-"help" line of your Premium SMS Service provider to not sort these things out. I know, it takes longer
-than 20 minutes once you take into account the number of times you have to call but if you were more
-careful, these things wouldn't happen.
+* A promise, by the 3 CEOs, to refund any and all customers who is materially out of pocket as the result of mobile phone calls to "help" lines associated with Premium SMS services during the course of disputes with either the corporations, or the related Premium SMS services, in relation to questions about whether the customer had "signed up" to those services with fully informed consent since the inception of the Premium SMS system in Australia. If, for whatever reason, sufficient documentation cannot be provided for some reason about a particular claim of a "sign up" event made by the corporations, then the corporations must deem that the customer did not, in fact, grant such consent and agree to reimburse each customer with the full cost of the calls made to any phone number that was a direct or indirect result of the receipt of an unsolicited SMS from those services, for each such event that occurred, if that in fact, has not already been done. This actions should be taken irrespective for all customers, past or present, whether such customers have requested the action or not.
 
-BTW: I'll let you in on a little industry secret - best not to use your mobile phone to call the
-"help" line. Normal customers don't get this advice Andy, but you are specical guy. Use your
-landline. It is cheaper.
+* An agreement from all CEOs that all calls to "help" lines of Premium SMS services will be free to the customer who makes the call, if established from the mobile handset that is associated with the service
+that the corporation, from this day forth irrespective for whatever legitimate reason these calls are made. For these purposes, raising a complaint about previous treatment by the services is to be regarded as a legitimate complaint.
 
-Why? Did you know that your telco generates revenue at the standard rate for a call to a 1300 line of
-around $1/min every time you call the Premium SMS Service "help" line at the recommendation
-of your telco.
+* To actively support the establishment of a Parliamentary Inquiry to conduct a through and wide reaching review into the operation of the Premium SMS system in Australia since its inception and to assess whether the Premium SMS system has outlived its usefulness in 2016 since mobile phone technologies, and particular mobile payment technologies, have changed substantially since the Premium SMS system was first introduced.
 
-I know that when you were provided with a link to to the "help" line by that handy 19sms.com.au site,
-your thought it was an actual help line and that the cost of calling it would be free. That's your mistake again, Andy. It wasn't a help line - it was a "help" line. There is a difference - check the terms and conditions of your contract with me. You know, that one that also obliged you to become
-my press officer when you clicked on my Linked profile. You didn't read those terms? Silly you.
+* The CEOs of these corporations to support a call for an emergency act of the Australian Parliament to switch off the Australian Premium SMS network, or otherwise place severe restrictions on its continued operation, until such time as the Parliamentary inquiry into these matters is complete
 
-Yeah, I know you didn't realise that you could enter into contract with me
-with an accidental action like clicking on a e-mail that one of your colleagues
-in the legal department had flicked through.
+* Full Disclosure of any relevant technical reports the corporations hold about the prevalence of click-bait and other kinds of web scams that have contributed to revenue gained by either the corporations or the 3rd party billers they are contracted with in relation to the operation of Premium SMS services since their inception and a full an accurate estimate of that revenue sufficient for consumer protection advocates
+to determine whether it would be worthwhile for class action law suits in relation to these matters.
 
-I know. Look, I know that when you signed up for your Optus mobile service [yeah, I know, a little strange - I have two words for you: Network Outages] you were dealing with a reputable
-corporate citizen who applies the same standards of integrity and fairness across
-the entire product line - including across the range of Premium SMS services offered on
-the Optus network.
+* Full Disclosure of any legal impediments in their contracts with 3rd party billers that have prevented the corporations behaving more responsibily towards their own customers with respect to Premium SMS services since their inception.
 
-But, again Andy, you didn't read the terms and conditions of the mobile
-service contract clearly enough did you? Andy, don't angry. Let me explain,
-in those terms and conditions you will find that we specifically highlight
-that Premium SMS service providers - primarily being fast buck merchants who know a good opportunity when they see one - aren't required to operate with the same standards of corporate ethics as the mothership network that gives them access to the network's customers and those customer's billing accounts.
+* Full Disclosure of the mechanisms the corporations use to ensure that they have, in fact, obtained adequate proof of fully informed consent about a customer's decision to "sign up" to a Premium SMS service prior to a charge in relation to such a service appearing on a mobile service consumer's account.
 
-Just for billing purposes, you understand - nothing strange in that. It's not the 1980's any more people -
-we now have sophsiticated and easy mobile payment methods like SMS. It's a great system - you can receive an unsolicited SMS on your phone and unsolicited charge on your phone bill and takes, what, only 1-2 hours
-ok maybe 4 hours to sort it out. And you end in credit by $5. How good is that? Andy? Andy? Where have you
-gone Andy?
+* In my own interests, for the corporations to indemnify me, for all time, from any legal actions taken either by themselves or any entity they have held a contract at any time with since 18:44 on April 7, 2016, in relation all matters directly or indirectly relating to this issue.
 
-Hey supe, I think I just lost a customer, no wait I think he just called back. Yep, it's him.
+* To fully protect from unauthorised disclosure, for all time, any private and personal data the corporations hold about me now, in the past or in the future irrespective of whether that information is any way related to this dispute or not and to otherwise not attempt to exercise corporate power of any kind to silence my dissent, or the dissent of others, about these matters.
 
-Andy! Your'e back. We are so pleased, thank you for calling back.
-What do you mean there is no such term and condition in your contract? My, that was
-an oversight wasn't it? Don't worry your pretty little head about it. I am sure someone will
-fix it some day. Remember, though, that our hands are tied somewhat by our opaque contracts
-with 3rd parties - we have to provide them with access to our networks for example.
-Outrageous, I know. Our lawyers said there is nothing they can do. It would require a legislative change
-and no-one in this industry is up for that. Too much work.
+* If the CEOs agree to these terms, issue a signed letter and press release to this effect, witnessed by the following people:
 
-Look, I can't give you a refund - we don't do that in this industry. I can give you a
-credit and look, since you are such a nice guy, I'll kick in extra $5. Your even. Actually, no you are ahead.
-Ok, once you deduct the $20 charge you accrued while waiting on our "help" line
-you are still $15 behind. It's enough to make you accept the loss and give up, right?
+	* Julian Morrow (Lawyer/Journalist/Funny Guy)
+	* Ezekial Ox (Singer/Social Activiist)
 
-Don't worry, Andy, since you noticed this $20 charge on your bill and called
-us back about it, we are willing to give you an additional credit for $20 in addition to
-the $10 credit we have already credited your account with in respect of
-that $5 so you are still ahead. Look a winner again, Andy. My you are getting pretty good at this
-whole complaints thing now Andy, aren't you. No, we don't automatically offer such credits to all customers in this situation, only those like you who care enough to call back.
+	* Phillip Adams (Broadcaster)
+	* David Marr (Journalist)
+	* Richard Ackland (Journalist)
+	* Samantha Maiden (Journalist)
 
-What about the system, you ask Andy? Don't worry about the system Andy, the system - it can look after itself.
+	* Tanya Plibersek (Federal Member for Sydney)
+	* Scott Ludlam (Federal Senator for Western Australia)
 
-It's not a bad business model, we lose on some those particularly quarrelsome customers, but we keep them happy. Most of the time anyway, although we are starting to have a few issues this week for some reason. And we make a motza on the others who can't be bothered to call back. The best thing about this system? Keeps the share holders happy. And if there is one thing you want to do in this industry, it is keeping shareholders busy because if you think customers are bad you have never seen how tenacious those share holders bastards can be when looking after their own interests.
+If these conditions are met, as witnessed by those listed above, then I promise to tone down my ridicule and work constructively with the industry to help make it better.
 
-Anyway, enough for now Andy. Just make sure that press release is ready for 16:30 sharp. And make it funny, really funny.
+Yours Sincerely
+
+Jon Seymour
+
+By The Harbour On A Sunny Friday Morning,
+Sydney, Australia
+15th April, 2016
+
+Approximately 6.5 days since I first became aware I had been scammed by the Australian Premium SMS industry,  24 hours previously.
+
+#Back to the humour because it has been a long 6.5 days and I need a break
+
+* If the CEO any corporation has suffered material loss (as opposed to stomach contents) as the result of my "accidental, but deliberate" sign up event referred to above, then I promise to help sort you out. Well, I won't help you out personally, of course - that'd be too time consuming and isn't really my responsibility even if the principles of natural justice might mislead you into believe that it was - but I do promise the help line of the Premium SMS service that I have deemed that you have all signed up to as the result of reading this text, will. You can use the site 19sms.com.au to find the number of the help line - just type in the 19xxxxx of the unsolicited SMS message that I just sent to your phones. Remember to read the detailed terms and conditions before you sign up with full informed consent. Oops, too late. Better luck next time, I guess.
+
+* May I suggest that as you sit in the evitable queue while waiting for service from the "help" line that you brush up on what the terms "duty of care" to customer mean, as defined by Section 51 of the 'Trade Practices Act'.
+
+* Apologies if you don't like the hold music - it's Rage Against The Machine I particularly like the song "Fight The Powers That Be", so I tend to run it on a loop. Still 5 times isn't much, is it, for such a great song?
+
+* Remember, don't use a landline because it is going to cost you a hefty $1/min - or an average of $20 to not get help, but receive fantastic "help" from those guys if you use your mobile phone to make the call. If only the Telstra CSR had warned me of that in the chat when I had my only problems last Friday - it would have saved you hassle of having refund me $38.42.
+
+* By I was quite surprised how much that it was - over 5 times the cost of the original charge ($6.99) I was almost, but not quite, visibly upset about. I wasn't truly visibly (and audibly) upset happened, much to the distress of the my fellow patrons at the Dunkirk, a few days later during the wind up my complaint when I was screaming at your Complaints CSR and her supervisor when the notion finally dawned on me that the system is totally fucked and completely rigged against the little guy most of who really have no clue how to press such complaints.
+
+* In fairness $38.42 was actually for 2 calls, not one - not even the little terrier that I am has the persistence to wait on a "help" line for a full 38 minutes. There was an earlier call at 18:49 on April 7 for $18.22 that occurred when the keys in my pocket accidentally dialled some bogus 1300 line in a link that appeared when an unsolicited SMS from 19900019 arrived on my phone 3 minutes earlier. Of course, I didn't even realise this had happened until 2 days later at 23:45 when I thought it might be wise to carefully check all the recent charges that had been applied to my bill just in case something else unexpected at happened. And, lo! - it had!
+
+* $38.42 is a lot of money - must make quite a nice contribution your bottom line, eh? It would be a shame if a large number of other customers checked their own phone bills - for the months before they asked you to put a Premium SMS Bar on their mobile service - and started to call you back to seek similar refunds. Could expensive in employee time alone - let alone the cost of the refunds themselves.
+
+* Mmm. Ugly. How's drafting of the press release going, BTW? I think you are going to need it sooner than you might have otherwise think. Those jokes better be rippers is the only advice I can give. Don't forget to tell the shareholders how this issue might affect their dividend this quarter. One of the A*** agencies (can't remember which one) as rules about that, you know, a shareholders are quite protective of their own
+interests and get really pissed of if the directors fail to disclose an issue of matertial concern at the most appropriate moment. You thought customers were rude so and so's when they ring about all drunk and
+angry. Wait until you hear from shareholders. They are awful, just awful.
+
+* Sorry, that's not the correct term in this in this industry is it - a refund is what you give when you admit you have stuffed up. That never happens in this industry. No what was the term your CSR used? That's right - a credit. That's a much better term because that's the term you correctly use to describe an amount which you generously give to a customer when they have made a silly little istake and you want them to make them feel better again. Especially after you meaningless phrases like "accidentally, deliberate" and they start to seriously reconsider their own attachment to and grasp on reality.
+
+* ps: any punters reading along. Don't worry your grasp on reality is just fine - it's just reality itself
+is a little distorted because of the nearby presence of a reality distorion field otherwise known as the Premium SMS System - Australian Edition (TM). When that thing is nearby all sorts of weird things happen - like unexpected reversals of the burden of proof. It's Einstein missed something fundamental when he did all that good work so many years ago.
+
+* Anyway, thanks for agreeing to pay me back when I contacted you again to complain after I later discovered these charges on my bill thinking I had already got my $6.99 credited + a nice little $3.01 bonus rounding
+it to a cool an crisp $100. Am I a winner, or what?
+
+* Back to the hold music, I would have put on my all time favourite band - Mammal - but Zeke and the boys broke up a few years back (so they couldn't appear live this morning). My mobile phone that does have a copy of their album on it, but it is otherwire indisposed at the moment.
+
+ ps: Zeke get the band back together for at least one gig, ok. I'll even come to Melbourne for the gig since I have heard the nightlife down there is so much better than our own these days for a reason I haven't quite been able to put a finger on. Ah that's right, moralising policitians! If only they concerned themselves with more constructive pursits - such installing more phone lines at the NSW Department of Fair Trading. Must be nice to have socialist in power down there these days. Hopefully we will have one here again, one day soon.
+
+* Anywhoo, CEOs, Good luck with the "help" line, and have a nice day.
+
+* ps: what subclause of Section 51 of the 'Trade Practices Act' are you up to right now? Keep reading.
+
+* I seem to be have trouble getting this campaign the media attention than I think it probably deserves. If anyone reading this knows anyone in the media, particularly the quality media like the Guardian, ABC or SBS or any those members of the media listed above, could I please ask that you send a link to this text to them, particularly if those journos have been victims of a trivial $7 Premium SMS scam themselves.
+
+* I give you my guarantee that his page does not contain any click-bait but please don't hold me to that because my actions in respect of duty of care of your interests are impeded by the contracts I hold with my 3rd party service providers.
+
+* If any journalist would like to contact me about this issue, in case my [blog](http://blog.stoppremiumsms.org) or associated [resources](github.com/stoppremiumsms/resources) and Telstra or ACCC complaints have not done that with sufficient thoroughness or clarity, then please get in touch with me at stop@stop.premiumsms.org.
+
+* I would also appreciate to be contacted by publishers or authors would like to write a book about the
+long sorry tale of systemic dysfunction. Having only stumbled across as recently as 18:44 April 8 last week, it has been something of an eye-opener for me, I can tell you. It should be ripper. I already have the title: "STOP! A breathtaking, many layered story of systemic dysfunction. Australian Edition (TM)"
+
+* And Tanya, give me a call, I don't have my phone with my and I haven't quite worked out that Skype thingy yet. Perhaps next Monday after this furore has started to die down a bit. No, not next Monday that's the 18th. No I mean Monday the 25th. No that's no good - Anzac Day. How about April the 26th. Not my actual birthday, but pretty close. It would be real treat!
+
+* The text of this page or any other page on this site may be altered at any time in the future without prior notification to, or consent from, readers being required. Such edits will usually be because of a typo, a spelling mistake, a grammar error but sometimes of the failure on my part to previously squeeze in another good line, idea or joke at the right time because I hadn't thought of that line, idea or joke yet.
+
+* The Terms and Conditions associated with the use of this site are not disclosed anywhere on this site, because it is a real hassle to do so, just in case I change my mind about those Terms and Conditions are.
+
+* A helpful [glossary](https://github.com/stoppremiumsms/resources/blob/master/GLOSSARY.md) of terms that will help interested citizens learn more about the sometimes mystifying operation of the Premium SMS System Australian Edition (TM). Note that the definitions provided in that document differ from those given on 19sms.com.au but have the advantage of being way funnier and a little bit closer to the truth.
+
+* Apologies if I you haven't been able to contact me this morning - Manifesto writing in the public interest (but particularly the requisite jokes - virality is so hard to achieve these days with so much superior content out there - like 1900 click-bate) is hard (and sometimes thirsty) work, and needs the thought space that a view of the Opera House and Circular Quay affords. Fortunately I have one those right now, but I do not have Internet access or indeed my phone. Fewer distractions I guess.
+
+* my mobile phone is locked at home in a metal safe with its SIM card removed because I am not 100% convinced that it will be safe from denial of service attacks from a bot army owned by the operators of Premium SMS services who are a little sad, right now, that their game is now up and their fig leave of cover  (otherwise affectionally referred elsewhere to as Industry Code - Mobile Premiums Services - C637:2011) has nibbled away by The Internet Rabbits Of Doom. Yeah, I know, you told me you have placed a Premium SMS Bar onto my service but trust, particularly trust in corporations who used to look after their customers interests, but nt longer appear to be so strongly compelled or incendeted to do so (because of legal impediments and obligations to other third parties), is rather thin on the ground these days.
+
+* By the way, if any corporation would like to get ahead of themselves and their competitors and publish revised terms and conditions that are fully consistent and take account of the concerns expressed here and elsewhere then I am sure it will be very cathartic for you and rewarding for your shareholds and customers - if you still have any.
