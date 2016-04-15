@@ -54,7 +54,7 @@ Possibly outlawed explicitly in a future release of Premium SMS Australian Editi
 
 A crutch rapidly installed by the Preimium SMS industry (and implicitly supported by the Australian Parliament) the last time the industry was almost crushed by consumer outrage.
 
-Not currently implemented uniformally across all Content Service Providers and End Carriage Services.
+Not currently implemented uniformly across all Content Service Providers and End Carriage Services.
 
 Wouldn't actually be necessary if any kind of Opt-In actually worked.
 
