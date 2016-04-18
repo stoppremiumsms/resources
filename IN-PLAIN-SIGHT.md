@@ -70,6 +70,9 @@ Subject a just man to the crucible of unjust system and don’t be surprised if 
 
 See you in Hobart - I am on my way to drop my phone off the bridge - subversive I know.
 
+The Telstra mobile phone tower records should show it is true.
+
+Go find them. And all the other shit.
 
 #My plans
 
