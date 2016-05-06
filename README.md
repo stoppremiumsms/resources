@@ -29,7 +29,7 @@ _Links to copies of terms and conditions of the 3 major End Carriage Suppliers (
 
 _Links to relevant industry codes of practice_
 
-* [Industry Code - Mobile Premium Services - C627:2011](http://www.acma.gov.au/theACMA/mobile-premium-services-code-c637-2011)
+* [Industry Code - Mobile Premium Services - C637:2011](http://www.acma.gov.au/theACMA/mobile-premium-services-code-c637-2011)
 
 
 ##Polemics, Rants, etc
