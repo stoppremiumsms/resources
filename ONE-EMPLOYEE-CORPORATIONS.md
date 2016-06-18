@@ -3,12 +3,12 @@
 This idea has a certain simple elegance, I think you may all agree.
 
 Labour relations:
-* No employees - everyone is an owner
-* No employees - no unions
-* No unions - no union corruption
+* Just one employee - everyone is an owner and an employee
+* No other employees -> no unions
+* No unions -> no union corruption
 
 Power:
-* small co-operative entities, no aggregate power
+* small interlinked co-operative entities that collaborate on ideas of interest to each other
 
 Patents:
 * no aggregate power, no patents
