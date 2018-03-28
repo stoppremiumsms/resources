@@ -1,15 +1,15 @@
-#\#STOPPremiumSMS campaign resources
+## STOPPremiumSMS campaign resources
 
 This page is dedicated to collecting campaign resources associated with the #STOPPremiumSMS campaign.
 
-##Motivation
+## Motivation
 
 _Subject a just man to the crucible of unjust system and don't be surprised if liquid metal results -- Australian Proverb, coined 11 April 2016._
 
 But it was only $6.99 and Telstra refunded you - why do you care? Here is [why](https://blog.stoppremiumsms.org/2016/04/14/but-it-was-only-6-99-and-telstra-refunded-you-why-do-you-care/).
 
 
-##Genesis
+## Genesis
 
 _Stories and complaints about an incident that lead to the creation of this campaign_
 
@@ -19,35 +19,35 @@ _Stories and complaints about an incident that lead to the creation of this camp
 * There is also the more rhetorical version of these complaints rended in the form of a [rant](https://blog.stoppremiumsms.org/about/). Admittedly the initial TIO submission is technically also described as a rant.
 
 
-##Mobile Service Terms And Conditions
+## Mobile Service Terms And Conditions
 
 _Links to copies of terms and conditions of the 3 major End Carriage Suppliers (in ACMA speak) or 'telcos' to the rest of us._
 
 - Telstra - [[current]](https://www.telstra.com.au/help/download/document/things-you-need-to-know-about-telstra-services-c048.pdf)/[[20160414]](https://github.com/stoppremiumssms/resources/tree/master/archive/www.telstra.com.au/help/2016-04-14/download/document/things-you-need-to-know-about-telstra-services-c048.pdf)
 
-##Industry Codes Of Practice
+## Industry Codes Of Practice
 
 _Links to relevant industry codes of practice_
 
 * [Industry Code - Mobile Premium Services - C637:2011](http://www.acma.gov.au/theACMA/mobile-premium-services-code-c637-2011)
 
 
-##Polemics, Rants, etc
+## Polemics, Rants, etc
 
 _Various rants about the broken Australian Premium SMS system._
 
-##Questions
+## Questions
 
 _This section will contain non-rhetorical questions asked of telecommunications companies about genuine issues of concern with their policies together
 with their responses as they are obtained. As the responses change we will update with the current response as it is provided. Previous
 responses will be archived for the purposes of transparency. Organised by question, rather than company, so that you can more easily
 rate and compare the policies of two different companies_
 
-##HOWTO guides
+## HOWTO guides
 
 _HOWTO guides which explain how to help protect yourself from Premium SMS scams and how to contribute to the campaign to rid Australia of this scourge._
 
-##Archives
+## Archives
 
 As the industry wakes up and scrambles to save its cash pig from the bonfire (mmmm, bacon!), incriminating documents
 from the past are going to disappear down the memory hole.
@@ -60,25 +60,25 @@ for the purposes of transparency and to serve the public interest. Request to re
 unless and until a court injunction is granted. Any legal demands in respect of these copies will be republished in full.
 So, good luck with those.
 
-##Social Media Sources
+## Social Media Sources
 
 - help us rid Australia of Premium SMS for all time - [join the campaign](https://www.communityrun.org/petitions/dismantle-the-broken-australian-premium-sms-system-1)
 
 
-##Other resources
+## Other resources
 
 - a YAML [list](archive/www.mobilenetworkguide.com.au/2016-04-12/MVNO.yml) of Mobile Virtual Network Operators that consumers use as cribbed from [the source](http://www.mobilenetworkguide.com.au/virtual_operators_information.html) on date encoded in the link. Check the source for latest information.
 - an FAQ - [TBD](#)
 
-##Contributions
+## Contributions
 
-###Guidelines
+### Guidelines
 
 _As the owner and administrator of this repo I need to be a little careful about what contributions I accept because it is important to the campaign that I can't be sued
 to shut it down. These guidelines will, I hope, prevent that happening. They are written mainly to explain up front why I might reject your submission even though it
 is similar to my own._
 
-####Neutral voice please####
+#### Neutral voice please
 
 **Q**: Hey, isn't that hypocritical aren't a lot of your contributions very polemical? Why won't you accept mine?
 
@@ -92,7 +92,7 @@ will be remain in the repo for ever. Under threat of legal action, I'd have to s
 
 So, leave the polemics in this repo to me. Sure, writes your own polemics. If they are particularly good, I'll consider linking to them from the [blog](http://blog.stoppremiumsms.org), but you have to take responsibility for them and publish them yourself somewhere else, ok?
 
-####Questions. Lots of Questions.####
+#### Questions. Lots of Questions.
 
 What would be really helpful is contribution of questions. Pointed ones, similar to ones in my [complaint](https://drive.google.com/a/premiumsms.org/file/d/1HPvGuu78Wf36raDzrttxNMJm4c9ideDjO0sVC7AuUEJs3MSkxeBndI-VuLXHBvYbReqIbt-BPp02T4gd/view) to Telstra. They have to be reasonable questions. They have to be questions
 that mobile service providers that have fair policies and live up to those policies can answer truthfully or will subject to themselves to damaging silence or falsehoods otherwise.
@@ -101,14 +101,14 @@ We particularly want questions that differentiate mobile services providers that
 
 Let market forces, reign, I say.
 
-###How To Submit Contributions
+### How To Submit Contributions
 
 If you have a resource to contribute and are handy with github send me a pull request with the changes you want to make
 or otherwise write them up as an [issue](https://github.com/stoppremiumsms/resources/issues/new).
 
 
 
-##Why GitHub
+## Why GitHub
 - inbuilt control over revisions
 - inbuilt transparency - see what changed, when and why.
 - easily forkable just in case the resistance is, at some point in the future, forced to execute a tactical retreat in response to clueless legal demands :-)
